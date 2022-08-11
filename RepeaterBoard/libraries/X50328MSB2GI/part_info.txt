@@ -1,0 +1,9 @@
+Manufacturer=Yangxing Tech
+PartNumber=X50328MSB2GI
+PartCategory=Crystal or Oscillator
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2020-01-04 11:13:14
+Downloaded=2021-11-04 20:54:05
+3D=Y

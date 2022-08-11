@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC34063AP
+D MC34063AP, DC-DC Converter, 1.5A 1.55  40 V, Step-Down/Up, 8-Pin PDIP
+F http://www.ti.com/lit/ds/symlink/mc33063a.pdf
+$ENDCMP
+#
+#End Doc Library

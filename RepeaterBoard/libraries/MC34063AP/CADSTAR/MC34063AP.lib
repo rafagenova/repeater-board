@@ -1,0 +1,18 @@
+.MC34063AP :1 ;MC34063AP, DC-DC Converter, 1.5A 1.55  40 V, Step-Down/Up, 8-Pin PDIP
+DIP794W53P254L959H508Q8N
+*STM IC
+*NGS
+*PLB 1="SWITCH_COLLECTOR" 2="SWITCH_EMITTER" 3="TIMING_CAPACITOR" 4="GND" 5="COMPARATOR_INVERTING_INPUT" 6="VCC" 7="IPK" 8="DRIVER_COLLECTOR"
+*MXP 8
+*DFN MC34063AP
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (MC34063AP)
+~!Mouser Part Number (595-MC34063AP)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/MC34063AP?qs=paYhMW8qfiu1umxNjP0GEg%3D%3D)
+~!Arrow Part Number (MC34063AP)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/mc34063ap/texas-instruments?region=nac)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/mc33063a.pdf)
+~!Height (5.08mm)
+~!3D_Model (MC34063AP)
+MC34063AP
+1.1!U 2.1!U 3.1!I 4.1!P 8.1!U 7.1!U 6.1!P 5.1!I 

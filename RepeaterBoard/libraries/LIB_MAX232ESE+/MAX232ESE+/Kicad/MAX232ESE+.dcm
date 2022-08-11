@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX232ESE+
+D MAX232ESE+, Dual Line Transceiver, EIA/TIA-232, RS-232, V.24, V.28 2 2 2 120 kbit/s, 4.5  5.5 V, 16-Pin SOIC
+K
+F http://datasheets.maximintegrated.com/en/ds/MAX220-MAX249.pdf
+$ENDCMP
+#
+#End Doc Library

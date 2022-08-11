@@ -1,0 +1,9 @@
+Manufacturer=Maxim Integrated
+PartNumber=MAX232ESE+
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=2.1
+Released=2015-05-28 03:45:03
+Downloaded=2021-11-02 16:23:00
+3D=Y

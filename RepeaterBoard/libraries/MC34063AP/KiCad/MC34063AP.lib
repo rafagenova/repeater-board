@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# MC34063AP
+#
+DEF MC34063AP IC 0 30 Y Y 1 F N
+F0 "IC" 2650 300 50 H V L CNN
+F1 "MC34063AP" 2650 200 50 H V L CNN
+F2 "DIP794W53P254L959H508Q8N" 2650 100 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/mc33063a.pdf" 2650 0 50 H I L CNN
+F4 "MC34063AP, DC-DC Converter, 1.5A 1.55  40 V, Step-Down/Up, 8-Pin PDIP" 2650 -100 50 H I L CNN "Description"
+F5 "5.08" 2650 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 2650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MC34063AP" 2650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-MC34063AP" 2650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/MC34063AP?qs=paYhMW8qfiu1umxNjP0GEg%3D%3D" 2650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "MC34063AP" 2650 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/mc34063ap/texas-instruments?region=nac" 2650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+P 5 0 1 6 200 100 2600 100 2600 -400 200 -400 200 100 f
+X SWITCH_COLLECTOR 1 0 0 200 R 50 50 0 0 P
+X SWITCH_EMITTER 2 0 -100 200 R 50 50 0 0 P
+X TIMING_CAPACITOR 3 0 -200 200 R 50 50 0 0 I
+X GND 4 0 -300 200 R 50 50 0 0 W
+X COMPARATOR_INVERTING_INPUT 5 2800 -300 200 L 50 50 0 0 I
+X VCC 6 2800 -200 200 L 50 50 0 0 W
+X IPK 7 2800 -100 200 L 50 50 0 0 P
+X DRIVER_COLLECTOR 8 2800 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

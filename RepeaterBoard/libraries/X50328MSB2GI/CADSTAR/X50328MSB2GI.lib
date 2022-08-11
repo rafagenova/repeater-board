@@ -1,0 +1,18 @@
+.X50328MSB2GI :1 ;SMD Crystal Resonators 8MHz +/-10ppm SMD-5032_2P RoHS
+RESC5032X135N
+*STM Y
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN X50328MSB2GI
+~!Manufacturer_Name (Yangxing Tech)
+~!Manufacturer_Part_Number (X50328MSB2GI)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/szlcsc/1903061615_Yangxing-Tech-X50328MSB2GI_C115962.pdf)
+~!Height (1.35mm)
+~!3D_Model (X50328MSB2GI)
+X50328MSB2GI
+1.1!U 2.1!U 

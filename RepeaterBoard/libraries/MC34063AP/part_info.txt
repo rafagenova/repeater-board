@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=MC34063AP
+PartCategory=Integrated Circuit
+PackageCategory=Dual-In-Line Packages
+PinCount=8
+Version=2.4
+Released=2015-06-24 00:00:00
+Downloaded=2021-10-05 01:41:23
+3D=Y
